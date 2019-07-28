@@ -25,18 +25,18 @@
 
 ### react部分
 
-> react // react的核心文件
-> @types/react // 声明文件
-> react-dom // react dom的操作包
-> @types/react-dom 
-> react-router-dom // react路由包
-> @types/react-router-dom
-> react-redux //数据管理
-> @types/react-redux
-> redux-thunk  // 中间件
-> @types/redux-logger
-> redux-logger // 中间件
-> connected-react-router
+* react // react的核心文件
+* @types/react // 声明文件
+* react-dom // react dom的操作包
+* @types/react-dom 
+* react-router-dom // react路由包
+* @types/react-router-dom
+* react-redux //数据管理
+* @types/react-redux
+* redux-thunk  // 中间件
+* @types/redux-logger
+* redux-logger // 中间件
+* connected-react-router
 
 `npm i react react-dom @types/react @types/react-dom react-router-dom @types/react-router-dom react-redux @types/react-redux redux-thunk redux-logger @types/redux-logger connected-react-router -S`
 
